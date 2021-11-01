@@ -1,4 +1,4 @@
-**🛫Proyecto-Clases-y-Herencias-Aerolinea🛫 👨‍👦**
+#🛫Proyecto-Clases-y-Herencias-Aerolinea🛫 👨‍👦
 
 
 En este proyecto se va a trabajar un proyecto de **TypeScript** con clases , subclases ,polimorfismo y herencias.
